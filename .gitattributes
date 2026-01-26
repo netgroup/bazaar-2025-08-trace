@@ -1,0 +1,2 @@
+Trojan.MSIL.Xeno.kk-f30be67ab6688aec314704baa698e798893771eb12acb087e7a19abe70ff0ed6/clean.pcap filter=lfs diff=lfs merge=lfs -text
+Trojan.Win32.Windigo.jq-56a28391d309102557fcf9bc34351a50b49054282f2007851dcbc4e825e7c37a/clean.pcap filter=lfs diff=lfs merge=lfs -text
